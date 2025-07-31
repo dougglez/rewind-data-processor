@@ -66,4 +66,4 @@ When reporting issues, please include:
 
 ## Questions?
 
-Feel free to open an issue for questions or discussions about the project direction. 
+Feel free to open an issue for questions or discussions about the project direction.
