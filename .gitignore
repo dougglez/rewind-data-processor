@@ -1,0 +1,100 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Video and audio files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.aac
+
+# Data directories (user-specific)
+memories/
+audio/
+video/
+transcripts/
+search_index/
+chunks_copy/
+snippets/
+
+# External drive paths
+/Volumes/*/
+
+# Apple tools binaries (compiled)
+bin/apple_ocr
+bin/apple_speech
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Test outputs
+test_output/
+test_results/
+
+# Node modules (if any Node.js tools are added)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (if any Python tools are added)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Compiled Swift files
+*.swiftmodule
+*.swiftdoc
+*.o
+*.a
+*.dylib
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Shortcuts
+*.shortcut 
